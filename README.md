@@ -17,21 +17,6 @@
 - **Other Skills:** MVC Architecture, Razorpay Payment Integration, Performance Optimization  
 - **Tools:** Git, GitHub, Postman, VS Code, XAMPP, Composer  
 
-## 📂 Projects  
-### 🏨 **Hotel Booking System**  
-📌 [GitHub Repository](#)  
-- Developed a **hotel booking system** using PHP, MySQL, AJAX, and JavaScript.  
-- Integrated **real-time room availability** and **Razorpay payment gateway**.  
-- Built an **Admin Panel** to manage bookings and pricing.  
-- Automated **email notifications** for booking confirmations.  
-
-### 🚌 **Bus Booking System**  
-📌 [GitHub Repository](#)  
-- Created a **bus booking platform** using PHP, MySQL, AJAX, and JavaScript.  
-- Implemented **live seat selection** and **fare calculation**.  
-- Designed an **Admin Dashboard** to manage routes and bookings.  
-- Added **automated ticket confirmation emails**.  
-
 ## 🎓 Education  
 **📍 Bholabhai Patel College of Computer Studies**  
 🗓️ **July 2022 - April 2025**  
