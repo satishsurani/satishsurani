@@ -63,10 +63,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satishsurani&theme=radical" height="165">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satishsurani&theme=radical">
-</p>
-
 ---
 
 ## 🤝 Let's Connect  
