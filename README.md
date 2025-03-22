@@ -34,5 +34,4 @@
 ## 📬 Connect With Me  
 🌐 [Portfolio](https://satishsurani.vercel.app/)  
 🔗 [LinkedIn](https://linkedin.com/in/satishsurani)  
-🐦 [Twitter](https://twitter.com/satishsurani)  
 📧 **Email:** satishsurani60@gmail.com  
